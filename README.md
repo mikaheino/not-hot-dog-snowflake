@@ -28,7 +28,7 @@ A modern reimagining of the iconic "Not Hotdog" app from HBO's *Silicon Valley*,
 
 1. **Set Up the Database Objects**:
 
-  - Open a new worksheet in Snowsigt.
+  - Open a new worksheet in Snowsight.
   - Execute the SQL commands found in `app.sql` to create necessary tables and stages
 
 2. **Create a New Streamlit App in Snowflake**:
