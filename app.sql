@@ -18,6 +18,7 @@ USE SCHEMA SCHEMA_HD ;
 CREATE OR REPLACE WAREHOUSE HD_WH ;
 
 -- crate streamlit app
+-- this will work, but will complain about st_camera_input, load app.py manually into Streamlit
 CREATE OR REPLACE STREAMLIT NOT_HOTDOG_APP
 FROM @images
 MAIN_FILE = 'app.py'
