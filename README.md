@@ -43,14 +43,12 @@ A modern reimagining of the iconic "Not Hotdog" app from HBO's *Silicon Valley*,
 
 ## 📁 Project Structue
 
-
 ```plaintext
 not-hot-dog-snowflake/
 ├── app.py       # Streamlit application code
 ├── app.sql      # SQL scripts for setting up database objects
 └── README.md    # Project documentation
 ``
-
 
 ---
 
