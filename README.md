@@ -68,11 +68,3 @@ This project draws inspiration from the fictional "Not Hotdog" app featured in H
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for dtails.
----
-
-For more information and updates, visit the [GitHub repository](https://github.com/mikaheino/not-hot-dog-snowflake/treemain).
-
---- 
