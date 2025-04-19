@@ -14,8 +14,10 @@ GRANT READ, WRITE ON STAGE DB_HD.SCHEMA_HD.IMAGES TO ROLE PUBLIC;
 USE DATABASE DB_HD ;
 USE SCHEMA SCHEMA_HD ;
 
---create wh to use
+--create wh to use and grant access to it
 CREATE OR REPLACE WAREHOUSE HD_WH ;
+GRANT USAGE ON WAREHOUSE HD_WH TO PUBLIC ;
+
 
 -- crate streamlit app
 -- this will work, but will complain about st_camera_input, load app.py manually into Streamlit
