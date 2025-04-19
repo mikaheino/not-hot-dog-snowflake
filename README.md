@@ -48,13 +48,11 @@ not-hot-dog-snowflake/
 ├── app.py       # Streamlit application code
 ├── app.sql      # SQL scripts for setting up database objects
 └── README.md    # Project documentation
-``
-
----
+```
 
 ## 🧠 Technical Details
 
-### Cortex Complete Multimoal
+### Cortex Complete Multimodal
 
 Snowflake's fully managed AI service that enables multimodal data analysis, allowing for seamless integration of image and text data processing within SQL and Python environments.
 
@@ -64,7 +62,7 @@ Allows developers to build and deploy Streamlit applications directly within the
 
 ---
 
-## 🎬 Inspiraion
+## 🎬 Inspiration
 
 This project draws inspiration from the fictional "Not Hotdog" app featured in HBO's *Silicon Valley*, where the app humorously identifies whether a given image is a hot dog or not. The original concept has been reimagined using modern data tools to demonstrate the capabilities of Snowflake's AI and application development feaures.
 
