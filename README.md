@@ -19,7 +19,7 @@ A modern reimagining of the iconic "Not Hotdog" app from HBO's *Silicon Valley*,
 ## 🚀 Getting Started
 
 ### Prerequisites
-- An active Snowflake account with access o:
+- An active Snowflake account
  - **Cortex Complete Multimodal** functions
  - **Streamlit in Snowflake**
 
