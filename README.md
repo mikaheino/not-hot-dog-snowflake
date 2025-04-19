@@ -1,4 +1,8 @@
 # Not Hot Dog Snowflake 🍽️
+
+![aee147ff-6cff-4259-aec4-f135c5362814](https://github.com/user-attachments/assets/6378699a-2115-47de-a414-665e8fcc6115)
+
+
 A modern reimagining of the iconic "Not Hotdog" app from HBO's *Silicon Valley*, rebuilt entirely within the Snowflake ecosystem. This application leverages Snowflake's **Cortex Complete Multimodal** capabilities and **Streamlit in Snowflake (SiS)** to classify images as "hot dog" or "not hot dog" directly within your data warehouse—no external services required
 
 ---
