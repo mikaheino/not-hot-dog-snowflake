@@ -1,9 +1,5 @@
-Certainly! Below is the raw content for the `README.md` file for the [Not Hot Dog Snowflake](https://github.com/mikaheino/not-hot-dog-snowflake/tree/main) project:
-
----
-
 # Not Hot Dog Snowflake 🍽️
-A modern reimagining of the iconic "Not Hotdog" app from HBO's *Silicon Valley*, rebuilt entirely within the Snowflake ecosystem. This application leverages Snowflake's **Cortex Complete Multimodal** capabilities and **Streamlit in Snowflake (SiS)** to classify images as "hot dog" or "not hot dog" directly within your data warehouse—no external services required
+A modern reimagining of the iconic "Not Hotdog" app from HBO's *Silicon Valley*, rebuilt entirely within the Snowflake ecosystem. This application leverages Snowflake's **Cortex Complete Multimodal** capabilities and **Streamlit in Snowflake (SiS)** to classify images as "hot dog" or "not hot dog" directly within your data warehouse—no external services required
 
 ---
 
@@ -22,7 +18,6 @@ Certainly! Below is the raw content for the `README.md` file for the [Not Hot Do
 - An active Snowflake account with access o:
  - **Cortex Complete Multimodal** functins
  - **Streamlit in Snowflake (SiS**- Python 3.11 or laer- Installed packags:
- - `snowflake-ml-python` (version 1.7.4 or latr)
  - `streamlt`
 
 ### Setup Instructions
